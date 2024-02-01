@@ -60,36 +60,11 @@ p {
   margin-bottom: 20px;
 }
 
-.task1 {
-background-color: green;
-}
-.task2 {
-  background-image: url("/img/img-400x200.jpg");
-}
-.task3{
-  background: linear-gradient(yellow,  red);
-}
-.task4{
-  background-image: radial-gradient(ellipse closest-side at 50% 50%, #3f87a6, #ebf8e1, #f69d3c);
-}
 
- .task5 {
-  background-image: conic-gradient(
-    from 3.1416rad at 10% 50%,
-    #e66465,
-    #9198e5
-  );
-}
-
-.task6 {
-  
-    background-image: url("img/background.jpg");
-    background-repeat: repeat-x;
-}
 .task7 {
   
   background-image: url("img/background.jpg");
-  background-repeat: repeat-y;
+  
 }
 .task8 {
   
